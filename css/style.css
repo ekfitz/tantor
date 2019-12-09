@@ -1,0 +1,28 @@
+body {
+  overflow: hidden;
+  background-color: black;
+}
+
+.text {
+  position: absolute;
+  width: 60%;
+  top: 90%;
+  left: 20%;
+  text-align: center;
+  color: white;
+  opacity: 0.5;
+  font-size: 1.5em;
+}
+
+#imgcontainer {
+  position: absolute;
+  width: 100%;
+  top: 10%;
+}
+
+#illum {
+  position: absolute;
+  width: 40%;
+  left: 30%;
+  opacity: 0.25;
+}
